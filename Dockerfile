@@ -34,6 +34,7 @@ RUN yum clean all && \
     php \
     php-cli \
     php-pecl-memcached \
+    php-pecl-memcache \
     php-memcached \
     php-mcrypt \
     gd \
